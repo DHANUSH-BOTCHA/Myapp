@@ -1,0 +1,17 @@
+h1{
+	color: white;
+	
+}	
+body {
+	padding:40px;
+	margin-top:70px;
+	margin-bottom:70px;
+}
+.container {
+	background-color: white;
+	color: black;
+	padding:2%;
+}
+img{
+	border:5px;
+}
